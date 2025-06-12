@@ -7,8 +7,6 @@ My goal is Develop an ML model to predict dropout probability based on behaviora
 
 - Curriculum improvements: Identify and fix pain points in courses.
 
-- 15-20% higher completion rates, directly boosting revenue and ROI.
-
 # Technologies
 - RandomForestClassifier
 - GridSearchCv
