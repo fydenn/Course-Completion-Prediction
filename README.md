@@ -9,9 +9,9 @@ My goal is Develop an ML model to predict dropout probability based on behaviora
 
 # Technologies
 - RandomForestClassifier
-- GridSearchCv
+- GridSearchCV
 - Pandas
-- NumPu
+- NumPy
 - Matplotlib
 - seaborn
 
